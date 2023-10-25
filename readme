@@ -1,0 +1,2 @@
+All the used datasets were downloaded from Capital Bike Sharing Data (https://s3.amazonaws.com/capitalbikeshare-data/index.html) ranging from 2021 June to 2023 June. Then few pre processing steps were done to estimating the Deperture and Arrival Counts per station in different seasons, different weekdays and different hours of the day.
+After that, with the processed dataset, we tried to vizualize it using Tableau and D3.js. Further description of these two outputs can be found in the projects page. 
