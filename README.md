@@ -18,3 +18,13 @@ After that, with the processed dataset, we tried to vizualize it using Tableau a
 * **03_Capital_BikeSharing_Wards_Stats_Cord_Diagram** - Contain the python script of the cord Diagram
 * **Presentation_DataVizualization_CapitalBikeShare** - Contains the pdf presenation of the the whole task, detailed description of different vizualization, what are consdiered while making the visualition and what are the challenges we solved while doing this task. 
 * **Tableau_VisualizationDashBoard_CapitalBike** - Contains all the workbook used for creating the Visualization Dashboard. The public version of the Dashboard also can be visualized through this link -https://public.tableau.com/app/profile/tahmida.sarker.muna/viz/QA_CapitalBikeshareWashingtonD_C/Story1
+
+## Outputs
+
+![Example Output](03_Outputs/01_Wards_WashingtonDC.png)
+
+![Example Output](03_Outputs/02_StationDensity_Map.png)
+
+![Example Output](03_Outputs/03_Chord-Diagram.png)
+
+![Example Output](03_Outputs/04_Chord-Diagram_Table.png)
