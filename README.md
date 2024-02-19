@@ -17,7 +17,8 @@ After that, with the processed dataset, we tried to vizualize it using Tableau a
 * **02_Capital_BikeSharing_Season&WeekdaysBased_ArrivalDeperture** - Contains the python script for data preprocessing. 
 * **03_Capital_BikeSharing_Wards_Stats_Cord_Diagram** - Contain the python script of the cord Diagram
 * **Presentation_DataVizualization_CapitalBikeShare** - Contains the pdf presenation of the the whole task, detailed description of different vizualization, what are consdiered while making the visualition and what are the challenges we solved while doing this task. 
-* **Tableau_VisualizationDashBoard_CapitalBike** - Contains all the workbook used for creating the Visualization Dashboard. The public version of the Dashboard also can be visualized through this link -https://public.tableau.com/app/profile/tahmida.sarker.muna/viz/QA_CapitalBikeshareWashingtonD_C/Story1
+* **Tableau_VisualizationDashBoard_CapitalBike** - Contains all the workbooks used for creating the Visualization Dashboard aimed to answer a few analytic questions. The public version of the Dashboard answering those question can be accessed with this [link](https://public.tableau.com/app/profile/tahmida.sarker.muna/viz/QA_CapitalBikeshareWashingtonD_C/Story1)
+* The finalized version of the dashboard can be accessed through this [link](https://public.tableau.com/app/profile/mahir.tazwar5324/viz/UpdatedVersion_CapitalBikeshareWashingtonD_C_16980955758270/MainDashboard#1)
 
 ## Outputs
 
